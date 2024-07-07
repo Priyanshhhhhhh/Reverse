@@ -1,5 +1,4 @@
-# Reverse
-Reversing words of a string
+# Reversing words of a string
 s = input("Enter string :")
 num = len(s)
 l = list(s)
